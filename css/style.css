@@ -8400,3 +8400,27 @@ a[data-toggle="collapse"] {
   font-size: larger;
   font-weight: bold;
 }
+#smscard { 
+  height: 500px;
+  width: 400px;
+  margin-left: 300px;
+}
+.smstext {
+  height: 300px !important;
+}
+#smsbtn {
+  width: 150px;
+  margin-right: 100px;
+  background-color: #062E51 ;
+  border-radius: 2rem ;
+  color: white ;
+  text-transform: capitalize;
+  font-size: medium;
+  margin-top: 20px;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+.equipcard {
+  margin-left: 300px;
+  width: 500px;
+}
